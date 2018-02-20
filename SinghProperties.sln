@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonApi", "CommonApi\CommonApi.csproj", "{488115EB-D183-4C70-8605-B0D27375262D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonApi", "CommonApi\CommonApi.csproj", "{488115EB-D183-4C70-8605-B0D27375262D}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BCDDA9E6-ECCE-4975-82A4-6696CCA19E62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebInterface", "WebInterface\WebInterface.csproj", "{D685FC35-209A-4D30-9151-BC50DF1E6890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebInterface", "WebInterface\WebInterface.csproj", "{D685FC35-209A-4D30-9151-BC50DF1E6890}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SPDatabase", "SPDatabase\SPDatabase.sqlproj", "{FE5A0CCE-17A4-4F14-987E-3A7D147F0019}"
 EndProject
