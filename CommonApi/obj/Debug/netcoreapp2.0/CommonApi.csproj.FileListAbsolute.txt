@@ -1,0 +1,11 @@
+F:\Current\SinghProperties\CommonApi\bin\Debug\netcoreapp2.0\CommonApi.deps.json
+F:\Current\SinghProperties\CommonApi\bin\Debug\netcoreapp2.0\CommonApi.runtimeconfig.json
+F:\Current\SinghProperties\CommonApi\bin\Debug\netcoreapp2.0\CommonApi.runtimeconfig.dev.json
+F:\Current\SinghProperties\CommonApi\bin\Debug\netcoreapp2.0\CommonApi.dll
+F:\Current\SinghProperties\CommonApi\bin\Debug\netcoreapp2.0\CommonApi.pdb
+F:\Current\SinghProperties\CommonApi\obj\Debug\netcoreapp2.0\CommonApi.csprojResolveAssemblyReference.cache
+F:\Current\SinghProperties\CommonApi\obj\Debug\netcoreapp2.0\CommonApi.csproj.CoreCompileInputs.cache
+F:\Current\SinghProperties\CommonApi\obj\Debug\netcoreapp2.0\CommonApi.AssemblyInfoInputs.cache
+F:\Current\SinghProperties\CommonApi\obj\Debug\netcoreapp2.0\CommonApi.AssemblyInfo.cs
+F:\Current\SinghProperties\CommonApi\obj\Debug\netcoreapp2.0\CommonApi.dll
+F:\Current\SinghProperties\CommonApi\obj\Debug\netcoreapp2.0\CommonApi.pdb

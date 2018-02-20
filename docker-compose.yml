@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  commonapi:
+    image: commonapi
+    build:
+      context: .
+      dockerfile: CommonApi\Dockerfile
